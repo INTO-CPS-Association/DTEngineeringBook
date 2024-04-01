@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About & Contacts
 permalink: /about/
 ---
 
 This website was produced using the [jekyll](https://jekyllrb.com/) static website generator.
 
-If you wish to report any issues or inspect the source code of the website you can find it here: [https://github.com/INTO-CPS-Association/DTEngineeringBook](https://github.com/INTO-CPS-Association/DTEngineeringBook)
+If you wish to **report any issues** or inspect the **source code** of the website you can find it here: [https://github.com/INTO-CPS-Association/DTEngineeringBook](https://github.com/INTO-CPS-Association/DTEngineeringBook)
 
 ## Contributors to the Book
 
