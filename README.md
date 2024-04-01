@@ -3,6 +3,7 @@
 - [Issues](#issues)
 - [Pull Requests](#pull-requests)
 - [Website Maintenance](#website-maintenance)
+- [Useful Resources](#useful-resources)
 
 ## About
 
@@ -43,3 +44,9 @@ We appreciate your contributions! When submitting a pull request:
    ```
 3. Git commit and push
 4. Check that the workflow is successful in https://github.com/clagms/clagms.github.io/actions
+
+
+## Useful Resources
+
+- Enabling mathjax in markdown content: https://www.iangoodfellow.com/blog/jekyll/markdown/tex/2016/11/07/latex-in-markdown.html
+- Enabling `$` as math delimiters: https://docs.mathjax.org/en/latest/input/tex/delimiters.html#tex-delimiters
