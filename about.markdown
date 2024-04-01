@@ -20,7 +20,7 @@ The following people have contributed to the book. Please follow the link to fin
 - [Rob Charlton](https://personwebsite.com)
 - [Henrik Ejersbo](https://personwebsite.com)
 - [Lukas Esterle](https://pure.au.dk/portal/en/persons/lukas.esterle%40ece.au.dk)
-- [Hao Feng](https://personwebsite.com)
+- [Hao Feng](https://www.linkedin.com/in/hao-f-b10aa4167/)
 - [John S Fitzgerald (**editor**)](https://www.ncl.ac.uk/computing/staff/profile/johnfitzgerald.html)
 - [Mirgita Frasheri](https://pure.au.dk/portal/en/persons/mirgita.frasheri%40ece.au.dk)
 - [Cláudio Gomes (**editor**)](https://clagms.github.io/)
