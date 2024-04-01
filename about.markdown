@@ -48,4 +48,9 @@ The following people have contributed to the book. Please follow the link to fin
 
 ## Contributors to the Book Website
 
-Please see the [contributors](https://github.com/INTO-CPS-Association/DTEngineeringBook/graphs/contributors) in the repository.
+The editors are responsible for the website content. Please note that [issues](https://github.com/INTO-CPS-Association/DTEngineeringBook/issues) should be created and discussed in the book [repository](https://github.com/INTO-CPS-Association/DTEngineeringBook):
+- [Cláudio Gomes](https://clagms.github.io/): [claudio.gomes@ece.au.dk](mailto:claudio.gomes@ece.au.dk)
+- [John S Fitzgerald](https://www.ncl.ac.uk/computing/staff/profile/johnfitzgerald.html) [john.fitzgerald@newcastle.ac.uk](mailto:john.fitzgerald@newcastle.ac.uk)
+- [Peter Gorm Larsen ](https://pure.au.dk/portal/da/persons/pgl%40ece.au.dk) [pgl@ece.au.dk](mailto:pgl@ece.au.dk)
+
+However, many more have contributed to the content. Please see the [contributors](https://github.com/INTO-CPS-Association/DTEngineeringBook/graphs/contributors) in the repository.
