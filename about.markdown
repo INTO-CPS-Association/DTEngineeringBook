@@ -8,6 +8,15 @@ This website was produced using the [jekyll](https://jekyllrb.com/) static websi
 
 If you wish to **report any issues** or inspect the **source code** of the website you can find it here: [https://github.com/INTO-CPS-Association/DTEngineeringBook](https://github.com/INTO-CPS-Association/DTEngineeringBook)
 
+## Contributors to the Book Website and Contacts
+
+The editors are responsible for the website content. Please note that [issues](https://github.com/INTO-CPS-Association/DTEngineeringBook/issues) should be created and discussed in the book [repository](https://github.com/INTO-CPS-Association/DTEngineeringBook):
+- [Cláudio Gomes](https://clagms.github.io/): [claudio.gomes@ece.au.dk](mailto:claudio.gomes@ece.au.dk)
+- [John S Fitzgerald](https://www.ncl.ac.uk/computing/staff/profile/johnfitzgerald.html): [john.fitzgerald@newcastle.ac.uk](mailto:john.fitzgerald@newcastle.ac.uk)
+- [Peter Gorm Larsen ](https://pure.au.dk/portal/da/persons/pgl%40ece.au.dk): [pgl@ece.au.dk](mailto:pgl@ece.au.dk)
+
+However, many more have contributed to the content. Please see the [contributors](https://github.com/INTO-CPS-Association/DTEngineeringBook/graphs/contributors) in the repository.
+
 ## Contributors to the Book
 
 The following people have contributed to the book. Please follow the link to find their contacts and website.
@@ -45,12 +54,3 @@ The following people have contributed to the book. Please follow the link to fin
 - [Jim Woodcock](https://personwebsite.com)
 - [Houxiang Zhang](https://www.ntnu.edu/employees/hozh)
 - [Jonas Åkeson](https://personwebsite.com)
-
-## Contributors to the Book Website
-
-The editors are responsible for the website content. Please note that [issues](https://github.com/INTO-CPS-Association/DTEngineeringBook/issues) should be created and discussed in the book [repository](https://github.com/INTO-CPS-Association/DTEngineeringBook):
-- [Cláudio Gomes](https://clagms.github.io/): [claudio.gomes@ece.au.dk](mailto:claudio.gomes@ece.au.dk)
-- [John S Fitzgerald](https://www.ncl.ac.uk/computing/staff/profile/johnfitzgerald.html): [john.fitzgerald@newcastle.ac.uk](mailto:john.fitzgerald@newcastle.ac.uk)
-- [Peter Gorm Larsen ](https://pure.au.dk/portal/da/persons/pgl%40ece.au.dk): [pgl@ece.au.dk](mailto:pgl@ece.au.dk)
-
-However, many more have contributed to the content. Please see the [contributors](https://github.com/INTO-CPS-Association/DTEngineeringBook/graphs/contributors) in the repository.
