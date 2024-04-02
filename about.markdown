@@ -34,7 +34,7 @@ The following people have contributed to the book. Please follow the link to fin
 - [Mirgita Frasheri](https://pure.au.dk/portal/en/persons/mirgita.frasheri%40ece.au.dk)
 - [Cláudio Gomes (**editor**)](https://clagms.github.io/)
 - [Simon Thrane Hansen](https://personwebsite.com)
-- [Lars Ivar Hatledal](https://personwebsite.com)
+- [Lars Ivar Hatledal](https://www.ntnu.edu/employees/laht)
 - [Alexandros Iosifidis](https://pure.au.dk/portal/en/persons/ai%40ece.au.dk)
 - [Panagiotis Katsaros](https://personwebsite.com)
 - [Zahra Kazemi](https://personwebsite.com)
