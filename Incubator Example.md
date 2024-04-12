@@ -17,7 +17,7 @@ The content below helps **map the examples in the book with the corresponding un
 ## Part II - Models and Data
 
 ## Part III - Services for Digital Shadows and Digital Twins
-
+[10.2.2 Fault Injection](./incubator/faultinjection.md) 
 ## Part IV - Realising Digital Shadows and Digital Twins
 
 ## Part V - Advanced Topics for Digital Twins
