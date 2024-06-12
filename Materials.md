@@ -3,8 +3,6 @@ layout: page
 title: Materials
 ---
 
-## Other Digital Twins
+The following are websites that maintain lists related to digital twins:
+- [awesome-digital-twins](https://github.com/edt-community/awesome-digital-twins)
 
-## Emerging Standards
-
-## Digital Twin Frameworks
