@@ -43,7 +43,7 @@ We appreciate your contributions! When submitting a pull request:
    bundle exec jekyll serve
    ```
 3. Git commit and push
-4. Check that the workflow is successful in https://github.com/clagms/clagms.github.io/actions
+4. Check that the workflow is successful in https://github.com/INTO-CPS-Association/DTEngineeringBook/actions
 
 
 ## Useful Resources
