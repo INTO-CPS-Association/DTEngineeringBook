@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-This website holds the supporting materials for the "Engineering Digital Twins" book.
+This website holds the supporting materials for the "[Engineering Digital Twins](https://link.springer.com/book/9783031667183)" book.
 In this lively area of engineering technology, anything we write today might be out of date by the time it reaches print. 
 Consequently we have tried to focus the book on more enduring material with supporting materials here. 
 This includes our [incubator running example and its Digital Twin](./Incubator%20Example.html), which viewers are able to download and run using a virtualised or self-built PT. The most common techniques described in the book are here made available via open source projects. 
