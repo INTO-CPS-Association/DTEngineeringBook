@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Digital Twin Engineering Book
-# email: pgl@ece.au.dk
+email: claudio.gomes@ece.au.dk
 description: >- # this means to ignore newlines until "baseurl:"
   This website offers comprehensive support materials for the Digital Twin Engineering Book. Whether you're a reader, educator, or enthusiast, you'll find valuable resources to enhance your understanding and practical application.
 # baseurl: "" # the subpath of your site, e.g. /blog
