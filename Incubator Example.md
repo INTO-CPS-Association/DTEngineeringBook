@@ -77,5 +77,5 @@ The FI plugin can be found [here](https://github.com/INTO-CPS-Association/fault-
 
 ### 11.2 Digital Twin Frameworks
 
-The following [repository illustrates](TODO) how the Incubator DT is implemented in the DTaaS platform.
+The DTaaS platform is being developed [here](https://github.com/into-cps-association/DTaaS) and multiple examples, including the [incubator example](https://github.com/INTO-CPS-Association/DTaaS-examples/blob/main/digital_twins/incubator/README.md), are provided [here](https://github.com/INTO-CPS-Association/DTaaS-examples).
 
