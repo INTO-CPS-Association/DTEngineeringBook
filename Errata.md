@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Errata
 ---
 
 This page is kept up to date with found issues in the book.
